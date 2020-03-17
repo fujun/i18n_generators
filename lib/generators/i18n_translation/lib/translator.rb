@@ -1,3 +1,5 @@
+require 'net/http'
+
 module I27r
   class TranslationError < StandardError; end
 
